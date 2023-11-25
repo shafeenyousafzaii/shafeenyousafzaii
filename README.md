@@ -19,5 +19,3 @@
 - 📧 [Email1](p229278@pwr.nu.edu.pk )
 - 📧 [Email2](shafeenyousafzai@gmail.com)
 
-### C++ Image Example
-![C++ Image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png)
