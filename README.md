@@ -15,15 +15,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Basics-blueviolet)
 
 ### Connect with Me
-- 🌐 [LinkedIn](Your LinkedIn URL)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/shafeen-yousafzai-695823158/)
 - 🐦 [Twitter](Your Twitter URL)
-- 📧 [Email](Your Email Address)
-
-### Projects
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
-- [Project 3](Link to Project 3)
-
-### Get in Touch
-Feel free to reach out if you'd like to collaborate on projects or just chat about technology!
-
+- 📧 [Email](p229278@pwr.nu.edu.pk )
+- 📧 [Email](shafeenyousafzai@gmail.com)
