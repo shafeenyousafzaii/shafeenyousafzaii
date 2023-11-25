@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎓 Studying at FAST-NUCES
-- 📚 Pursuing a Bachelor's in BS Artificial Intelligence
+- 📚 Pursuing a Bachelor's in  Artificial Intelligence
 - 💻 Fluent in C++ and C
 - 🐍 Currently learning Python
 - 📱 Explored basics of Flutter and Kotlin
