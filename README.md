@@ -16,6 +16,5 @@
 
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shafeen-yousafzai-695823158/)
-- 🐦 [Twitter](Your Twitter URL)
-- 📧 [Email](p229278@pwr.nu.edu.pk )
-- 📧 [Email](shafeenyousafzai@gmail.com)
+- 📧 [Email1](p229278@pwr.nu.edu.pk )
+- 📧 [Email2](shafeenyousafzai@gmail.com)
