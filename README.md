@@ -19,4 +19,4 @@
 - 📧 [Email1](p229278@pwr.nu.edu.pk )
 - 📧 [Email2](shafeenyousafzai@gmail.com)
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairahmad8&show_icons=true&locale=en&layout=compact" alt="shafeenyousafzaii" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzairahmad8&show_icons=true&locale=en&layout=compact" alt="uzairahmad8" /></p>
