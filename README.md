@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shafeenyousafzaii)
+![](https://komarev.com/ghpvc/?username=shafeenyousafzaii&color=green)
 # Hi there! 👋 I'm Shafeen Yousafzai
 
 ### About Me
