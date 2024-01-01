@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/shafeenyousafzaii)
+![](https://komarev.com/ghpvc/?username=shafeenyousafzaii)
 # Hi there! 👋 I'm Shafeen Yousafzai
 
 ### About Me
