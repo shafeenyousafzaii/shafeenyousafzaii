@@ -11,16 +11,40 @@
 ### Skills
 ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
 ![C](https://img.shields.io/badge/C-Expert-brightgreen)
-![Python](https://img.shields.io/badge/Python-Learning-yellow)
 ![Flutter](https://img.shields.io/badge/Flutter-Basics-blueviolet)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Basics-blueviolet)
+![Python](https://img.shields.io/badge/Python-Learning-red)
+![HTML5](https://img.shields.io/badge/HTML5-Learning-red)
+![CSS](https://img.shields.io/badge/CSS-Learning-red)
 
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="0" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+
+<!-- <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+ -->
+
+</div>  
+<br/> 
+
+<div align="center">
+</div>
+
+---
 ### Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/shafeen-yousafzai-695823158/)
 - 📧 [Email1](p229278@pwr.nu.edu.pk )
 - 📧 [Email2](shafeenyousafzai@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafeenyousafzaii&show_icons=true&locale=en&layout=compact" alt="shafeenyousafaii" /></p>
 
 ## :fire:  Stats :
 
