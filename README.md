@@ -21,3 +21,7 @@
 - 📧 [Email2](shafeenyousafzai@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafeenyousafzaii&show_icons=true&locale=en&layout=compact" alt="shafeenyousafaii" /></p>
+## :fire:  Stats :
+
+<br><b>Github Streaks 🔥</b>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeenyousafzaii&theme=black-ice&hide_border=true&stroke=ffffff&background=90,1fd1f9,b621fe&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=fff&text_color=ffffff" alt="shafeenyousafzaii" /></p>
