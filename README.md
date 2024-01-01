@@ -1,5 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/your_username)
-
+![Profile views](https://gpvc.arturio.dev/shafeenyousafzaii)
 # Hi there! 👋 I'm Shafeen Yousafzai
 
 ### About Me
