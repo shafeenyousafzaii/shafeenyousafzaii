@@ -26,3 +26,24 @@
 
 <br><b>Github Streaks 🔥</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeenyousafzaii&theme=black-ice&hide_border=true&stroke=ffffff&background=90,1fd1f9,b621fe&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=fff&text_color=ffffff" alt="shafeenyousafzaii" /></p>
+
+<b>Language Stats</b>
+
+<a href="https://github-readme-stats.vercel.app/api?username=shafeenyousafzaii&count_private=true&show_icons=true&theme=chartreuse-dark">
+
+
+
+
+
+
+
+
+<a href="https://github.com/shafeenyousafzaii">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeenyousafzaii&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" style="width: 400px; height: 200px;" />
+</a>
+
+<br>
+
+---
+
+<br>
