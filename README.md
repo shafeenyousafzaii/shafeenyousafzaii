@@ -38,10 +38,9 @@
 
 <div align="center">
 </div>
-
 ---
 ### Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/shafeen-yousafzai-695823158/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-shafeen-130a232b2/)
 - 📧 [Email1](p229278@pwr.nu.edu.pk )
 - 📧 [Email2](shafeenyousafzai@gmail.com)
 
