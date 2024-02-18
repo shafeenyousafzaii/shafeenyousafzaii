@@ -38,7 +38,6 @@
 
 <div align="center">
 </div>
----
 ### Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-shafeen-130a232b2/)
