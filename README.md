@@ -60,33 +60,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@shafeenyousafzaii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=@shafeenyousafzaii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=@shafeenyousafzaii&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
-## :fire:  Stats :
-
-<br><b>Github Streaks 🔥</b>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeenyousafzaii&theme=black-ice&hide_border=true&stroke=ffffff&background=90,1fd1f9,b621fe&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=fff&text_color=ffffff" alt="shafeenyousafzaii" /></p>
-
-<b>Language Stats</b>
-
-<a href="https://github-readme-stats.vercel.app/api?username=shafeenyousafzaii&count_private=true&show_icons=true&theme=chartreuse-dark">
-
-
-
-
-
-
-
-
-<a href="https://github.com/shafeenyousafzaii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeenyousafzaii&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" style="width: 400px; height: 200px;" />
-</a>
-
-<br>
-
----
-
-<br>
