@@ -42,7 +42,8 @@ Machine learning-based **temperature prediction** using real-world weather data.
 
 - **Languages:** Python, C++, C, Dart, Kotlin, HTML/CSS, JavaScript (basic)
 - **AI/ML:** TensorFlow, Keras, scikit-learn, OpenCV, MediaPipe, PyTorch (basic)
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Big Data Analytics:** Hadoop , Spark , SparkML(exploring) .
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Reinforcement Learning
 - **Dev Tools:** Git, GitHub, Jupyter Notebook, Streamlit, Flask, Linux
 - **Others:** Android Development (Kotlin), Flutter (basic), SQL
 
