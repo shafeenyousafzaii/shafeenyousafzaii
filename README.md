@@ -70,16 +70,9 @@ Machine learning-based **temperature prediction** using real-world weather data.
 
 
 ![](https://komarev.com/ghpvc/?username=shafeenyousafzaii&color=brightgreen)
-# Hi there! 👋 I'm Shafeen Yousafzai
 
 ### ✍️ Quote : 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### About Me
-- 🎓 Studying at FAST-NUCES
-- 📚 Pursuing a Bachelor's in  Artificial Intelligence
-- 💻 Fluent in C++ and C Python
-- 📱 Explored basics of Flutter and Kotlin
 
 ### Skills
 ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
@@ -112,11 +105,7 @@ Machine learning-based **temperature prediction** using real-world weather data.
 <div align="center">
 </div>
 
-### Connect With Me :
-- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-shafeen-82177b2b7/)
-- 📧 [Email1](shafeenyousafzai@gmail.com)
-- 📧 [Email2](p229278@pwr.nu.edu.pk )
- 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/574326362370998306) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Paapeen/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shafeenyousafzai1._) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shafeenyousafzai) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/paapeen/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Shafeen-YousafZai) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/shafeenyousafzaii) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20737369/muhammad-shafeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shafeenyusafzai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shafeenyousafzai8245) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@shafeenyousafzaii) 
 
