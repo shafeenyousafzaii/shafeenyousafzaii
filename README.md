@@ -13,10 +13,10 @@
 
 ### Skills
 ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
+![Python](https://img.shields.io/badge/Python-Exoert-green)
 ![C](https://img.shields.io/badge/C-Expert-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Basics-blueviolet)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Basics-blueviolet)
-![Python](https://img.shields.io/badge/Python-Learning-red)
 ![HTML5](https://img.shields.io/badge/HTML5-Learning-red)
 ![CSS](https://img.shields.io/badge/CSS-Learning-red)
 
