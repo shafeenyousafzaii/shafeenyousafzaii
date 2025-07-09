@@ -1,3 +1,74 @@
+# 👋 Hello, I'm Muhammad Shafeen
+
+🎓 **Artificial Intelligence Student at FAST NUCES (2022–2026)**  
+💡 Passionate about Machine Learning, Neural Networks, and Real-World AI Solutions  
+📍 Based in Pakistan | Open to global collaboration and opportunities
+
+---
+
+## 🧠 About Me
+
+I’m a dedicated student pursuing a **Bachelor’s degree in Artificial Intelligence** at **FAST–NUCES**. My interests lie in building intelligent systems that solve real-world problems using machine learning, deep learning, and neural networks. I enjoy turning complex datasets into meaningful insights and developing end-to-end AI-powered applications.
+
+---
+
+## 🔬 Featured Projects
+
+### 🚀 [Running Offline LLMs on Mobile](https://github.com/shafeenyousafzaii/Running-Offline-LLMs-Locally-)
+Train your own **Large Language Model (LLM)** and deploy it **offline on Android** using Google's MediaPipe.  
+✅ Includes model training, optimization, and a fully working Android APK.
+
+---
+
+### 🩺 [Pneumonia Detection (Team Project)](https://github.com/shafeenyousafzaii/Pneumonia_Detection_Team_Project)
+Detect pneumonia using chest X-ray images with a **fine-tuned VGG16 CNN model**.  
+🖼️ Real-time image upload + diagnosis using Flask and Streamlit web apps.
+
+---
+
+### 📺 [Anime Recommendation System (FP-Growth)](https://github.com/shafeenyousafzaii/Anime-Recommendation-System-Based-on-FP-Growth-Algorithm)
+Recommender system based on **frequent pattern mining (FP-Growth)**.  
+🧠 Association rule learning applied to anime preferences.
+
+---
+
+### 🌤️ [Weather Data Analysis](https://github.com/shafeenyousafzaii/Weather-Data-Analysis-Project)
+Machine learning-based **temperature prediction** using real-world weather data.  
+📊 Data visualization, regression models, and exploratory analysis.
+
+---
+
+## 🧰 Tech Stack & Skills
+
+- **Languages:** Python, C++, C, Dart, Kotlin, HTML/CSS, JavaScript (basic)
+- **AI/ML:** TensorFlow, Keras, scikit-learn, OpenCV, MediaPipe, PyTorch (basic)
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Dev Tools:** Git, GitHub, Jupyter Notebook, Streamlit, Flask, Linux
+- **Others:** Android Development (Kotlin), Flutter (basic), SQL
+
+---
+
+## 🎯 Current Goals
+
+- Explore **advanced deep learning** techniques (Transformers, GANs, RNNs)
+- Contribute to **open-source AI/ML** projects
+- Develop and deploy **AI-powered real-world apps**
+- Pursue **research** and publish in AI/ML domains
+
+---
+
+## 🤝 Let's Connect
+
+📬 [LinkedIn](https://www.linkedin.com/in/muhammad-shafeen-82177b2b7)  
+📂 [GitHub Projects](https://github.com/shafeenyousafzaii?tab=repositories)  
+🌐 Portfolio/Linktree coming soon...
+
+---
+
+> “Let’s innovate with intelligence.” 🤖✨
+
+
+
 ![](https://komarev.com/ghpvc/?username=shafeenyousafzaii&color=brightgreen)
 # Hi there! 👋 I'm Shafeen Yousafzai
 
